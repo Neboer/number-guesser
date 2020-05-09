@@ -1,7 +1,5 @@
 #include <iostream>
-//#include "word.h"
 #include "generator.h"
-#include <list>
 #include <array>
 #include <sstream>
 
