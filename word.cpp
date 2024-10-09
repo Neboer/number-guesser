@@ -1,7 +1,5 @@
-#pragma once
-
 #include "word.h"
-
+#include <algorithm>
 
 bool compare_result::operator==(const compare_result &another_result) {
     return (correct == another_result.correct) && (half == another_result.half);
